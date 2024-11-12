@@ -32,10 +32,113 @@
 //let a = 10;
 //console.log(a);
 //}
-const student = {
-    fullName: "Fehmida",
-    age: 19 ,
-    cgpa: 8.2 ,
-    ispass: true,
-};
-console.log(student ["age"]);
+//const student = {
+  //  fullName: "Fehmida",
+    //age: 19 ,
+    //cgpa: 8.2 ,
+    //ispass: true,
+//};
+//console.log(student ["age"]);
+
+//Artimetic operators
+//let a = 5;
+//let b = 2;
+
+//console.log("a = ",a,"&b =",b);
+//console.log("a + b ",a + b);
+//console.log("a - b = ",a - b);
+//console.log("a * b = ", a * b);
+//console.log("a / b = ", a / b);
+//console.log("a ** b = ", a ** b); 
+
+//unary oprerator
+
+//let a = 5;
+//let b = 2;
+
+//console.log("a =" , a , "& b =", b);
+//a = a + 1;
+//console.log(a);
+
+
+ //let a = 5;
+//let b = 2;
+
+//console.log("a =" , a , "& b =", b);
+//a++ ;
+//console.log(a);
+
+// let a = 5;
+//let b = 2;
+
+//console.log("a =" , a , "& b =", b);
+//a = a - 1;
+//console.log(a);
+
+// let  a = 5;
+// let b = 2;
+
+// console.log("a =" , a , "& b =", b);
+
+// console.log("a++ =" , a++ );
+
+
+// let  a = 5;
+// let b = 2;
+
+// console.log("a =" , a , "& b =", b);
+
+// console.log("a++ =" , a++ );
+// console.log("a = ", a);
+
+
+// let  a = 5;
+// let b = 2;
+
+// console.log("a =" , a , "& b =", b);
+
+// console.log("--a =" , --a);
+// console.log("a = " , a);
+
+  //Asigment operators
+  
+// let  a = 5;
+// let b = 2;
+
+// a += 4;
+// console.log("a = ", a);
+
+ 
+// let  a = 5;
+// let b = 2;
+
+// a -= 4;
+// console.log("a = ", a);
+
+ 
+// let  a = 5;
+// let b = 2;
+
+// a *= 4;
+// console.log("a = ", a);
+
+ 
+// let  a = 5;
+// let b = 2;
+
+// a /= 4;
+// console.log("a = ", a);
+
+ 
+// let  a = 5;
+// let b = 2;
+
+// a %= 4;
+// console.log("a = ", a);
+
+ 
+// let  a = 5;
+// let b = 2;
+
+// a **= 4;
+// console.log("a = ", a);
