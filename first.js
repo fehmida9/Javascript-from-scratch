@@ -142,3 +142,214 @@
 
 // a **= 4;
 // console.log("a = ", a);
+
+
+// comparison operators 
+
+// let a = 5;
+// let b = 2;
+
+// console.log("5 == 2", a == b);
+
+
+//let a = 5;
+//let b = 2;
+
+//console.log("5 == 5", a == b);
+
+
+// let a = 5;
+// let b = 5;
+
+// console.log("5 == 5", a == b);
+
+
+// let a = 5;
+// let b = 5;
+
+// console.log("5 != 5", a != b);
+
+
+// let a = 5;
+// let b = 2;
+
+// console.log("5 != 2", a != b);
+
+
+// let a = 5;  //number
+// let b  = "5";  //string => number
+
+// console.log("a == b", a == b);
+
+
+// let a = 5;
+// let b = 5;
+
+// console.log("a === b", a === b);
+
+
+//let a = 5;
+//let b = 3;
+
+// console.log("5 > 3", a > b);
+
+
+// let a = 5;
+// let b = 3;
+
+// console.log("5 > 3", a > b);
+
+
+// let a = 5;
+// let b = 5;
+
+// console.log("5 > 3", a > b);
+
+
+// let a = 5;
+// let b = 3;
+
+// console.log("5 > 3", a > b);
+
+
+// let a = 5;
+// let b = 3;
+
+// console.log("5 > 3", a > b);
+
+
+// let a = 5;
+// let b = 5;
+
+// console.log("5 <= 3", a <= b);
+
+
+// let a = 6;
+// let b = 5;
+
+// console.log("6 >= 5", a >= b);
+
+
+//logical operators
+
+//let a = 6;
+//let b = 5;
+
+//let cond1 = a > b;
+//let cond2 = a === 6;
+//console.log("cond1 && cond2 =", cond1 && cond2);
+
+
+// let a = 6;
+// let b = 5;
+
+// let cond1 = a < b;
+// let cond2 = a === 6;
+// console.log("cond1 && cond2 =", a < b &&  a === 6);
+
+
+// let a = 6;
+// let b = 5;
+
+// console.log("cond1 || cond2 =", a < b || a === 6);
+
+
+// let a = 6;
+// let b = 5;
+
+// console.log("!(a<b) =", !(a<b));
+
+// let a = 6;
+// let b = 5;
+
+// console.log("!(6<5) =", !(a<b));
+
+// let a = 6;
+// let b = 5;
+
+// console.log("!(6<5) =", !(a === 6));
+
+
+    // conditional statement
+
+// let age = 19;
+ 
+// if (age >18) {
+//   console.log(" you can vote");
+// }
+
+
+// let age = 16;
+ 
+// if (age >18) {
+//   console.log(" you can vote");
+// }
+// if (age < 18){
+//   console.log("you CANNOT vote");
+// }
+
+
+// let age = 18;
+ 
+// if (age >= 18) {
+  // console.log(" you can vote");
+// }
+// if (age < 18){
+//   console.log("you CANNOT vote");
+// }
+
+
+// let mode = "light";
+// let color ;
+
+// if (mode ==="dark"){
+  // color ="black";
+// }
+
+// if(mode === "light") {
+  // color = " white";
+// }
+// console.log("color");
+
+// let age = 25;
+//  if (age >= 18){
+//   console.log("vote");
+//  } else {
+//   console.log("not vote");
+//  }
+
+
+// let age = 16;
+//  if (age >= 18){
+//   console.log("vote");
+//  } else {
+//   console.log("not vote");
+//  }
+
+//odd or even
+
+// let num = 10;
+
+// if(num % 2 === 0){
+//   console.log("even");
+// }else {
+//   console.log("odd");
+// }
+
+
+// let num = 10;
+
+// if(num % 2 === 0){
+//   console.log(num ," is even");
+// }else {
+//   console.log(num , "is odd");
+// }
+
+
+// let num = 20;
+
+// if(num % 2 === 0){
+//   console.log(num ," is even");
+// // }else {
+//   console.log(num , "is odd");
+// }
