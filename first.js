@@ -442,18 +442,104 @@
   //   console.log("acording to your scores, your grade was : ",grade);
 
   
-  let score = prompt("enter your score (0-100)");
-  let grade ;
+  // let score = prompt("enter your score (0-100)");
+  // let grade ;
 
-  if (score >= 90 && score <= 100){
-   grade = "A";
-  } else if (score >= 70 && score <= 89){
-   grade = "B";
-  }else if (score >=60 && score <=69){
-   grade = "C";
-  } else if ( score >= 50 && score <= 59){
-   grade = "D";
-  } else if (score >= 0 && score <=49){
-   grade = "F";
+  // if (score >= 90 && score <= 100){
+  //  grade = "A";
+  // } else if (score >= 70 && score <= 89){
+  //  grade = "B";
+  // }else if (score >=60 && score <=69){
+  //  grade = "C";
+  // } else if ( score >= 50 && score <= 59){
+  //  grade = "D";
+  // } else if (score >= 0 && score <=49){
+  //  grade = "F";
+  // }
+  //  console.log("acording to your scores, your grade was : ",grade);
+
+    // print 1 to 5 , 1000 ,100000
+
+
+  // for (let count = 1; count <= 5; count++ ){
+  //   console.log("apna college");
+  // }
+  // console.log("loop has ended");
+
+
+  // for (let count = 1; count <= 1000; count++ ){
+  //   console.log("apna college");
+  // }
+  // console.log("loop has ended");
+  
+
+  // for (let count = 1; count <= 100000; count++ ){
+  //   console.log("apna college");
+  // }
+  // console.log("loop has ended");
+
+
+        // calculate sum of 1 to n
+
+//  let sum = 0;
+//  for (let i = 1; i<= 5; i++){
+//   sum = sum + i;
+//  }   
+// console.log("sum = ",sum);
+//  console.log("loop has ended");
+
+
+// let sum = 0;
+// let n = 5;
+// for (let i = 1; i<= n; i++){
+//  sum = sum + i;
+// }   
+// console.log("sum = ",sum);
+// console.log("loop has ended");
+
+
+// let sum = 0;
+// let n = 6;
+// for (let i = 1; i<= n; i++){
+//  sum = sum + i;
+// }   
+// console.log("sum = ",sum);
+// console.log("loop has ended");
+
+
+// let sum = 0;
+// let n = 7;
+// for (let i = 1; i<= n; i++){
+//  sum = sum + i;
+// }   
+// console.log("sum = ",sum);
+// console.log("loop has ended");
+
+
+   // calculate sum of 1 to 100
+
+//   let sum = 0;
+//   let n = 100;
+//   for (let i = 1; i<= 1000; i++){
+//    sum = sum + i;
+//   }   
+//  console.log("sum = ",sum);
+//   console.log("loop has ended");
+
+  // print to 1 to 5
+
+  // for (let i = 1 ; i <= 5; i++){
+    // console.log("i = ",i);
+  // }
+ 
+  // console.log(i);
+
+  // for(
+  //   let i =1 ; i >= 0 ; i++) {
+  //     console.log("i =n", i);
+  //   }
+
+  let i = 1 ;
+  while (i <= 5) {
+    console.log("i=", i);
   }
-   console.log("acording to your scores, your grade was : ",grade);
